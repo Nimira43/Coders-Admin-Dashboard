@@ -240,18 +240,6 @@ export const questions = [
   },
   {
     id: uuidv4(),
-    question: 'Can I install plugins?',
-    answer:
-      'Yes. With the NimiraTech.com Business or eCommerce plan you can search for and install external plugins. All plans already come with a custom set of plugins tailored just for them.',
-  },
-  {
-    id: uuidv4(),
-    question: 'Can I install my own theme?',
-    answer:
-      'Yes. With the NimiraTech.com Business or eCommerce plan you can install any theme you like. All plans give you access to our directory of free and premium themes. These are among the highest-quality NimiraTech themes, hand-picked and reviewed by our team.',
-  },
-  {
-    id: uuidv4(),
     question: 'Do I need another web host?',
     answer:
       'No. All NimiraTech.com sites include our specially tailored NimiraTech hosting to ensure your site stays available and secure at all times. You can even use your own domain when you upgrade to the Personal, Premium, Business, or eCommerce plan.',
@@ -266,7 +254,7 @@ export const questions = [
     id: uuidv4(),
     question: 'What is included with advanced custom design?',
     answer:
-      'Custom design is a toolset you can use to personalize your blog’s look and feel with custom colours & backgrounds, custom fonts, and even a CSS editor that you can use for more precise control of your site’s design.',
+      'Custom design is a toolset you can use to personalize your blog\'s look and feel with custom colours & backgrounds, custom fonts, and even a CSS editor that you can use for more precise control of your site\'s design.',
   },
   {
     id: uuidv4(),
@@ -285,7 +273,7 @@ export const questions = [
     question: 'Have more questions?',
     answer:
       'Need help deciding which plan works for you? Our happiness engineers are available for any questions you may have.',
-  }
+  },
 ]
 
 export const posts = [
