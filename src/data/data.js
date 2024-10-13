@@ -59,7 +59,7 @@ export const links = [
     title: 'GitHub',
     url: '/github',
     icon: <FaGithub />,
-    colour: '#e0ffff',
+    colour: '#8af4f4',
   },
   {
     id: uuidv4(),
@@ -73,7 +73,7 @@ export const links = [
     title: 'Stats',
     url: '/stats',
     icon: <ImStatsDots />,
-    colour: '#a5f3dg',
+    colour: '#76dcc5',
   },
   {
     id: uuidv4(),
@@ -108,7 +108,7 @@ export const links = [
     title: 'Settings',
     url: '/',
     icon: <IoMdSettings />,
-    colour: 'f0f0bf',
+    colour: '#f471eb',
   },
 ]
 
