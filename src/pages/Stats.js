@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function Stats() {
   return (
-    <div>Stats</div>
+    <div>
+      <h1>Stats Page</h1>
+    </div>
   )
 }
