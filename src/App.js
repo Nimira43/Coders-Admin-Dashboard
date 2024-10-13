@@ -1,10 +1,6 @@
 import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import Home from './pages/Home'
-import Stats from './pages/Stats'
-import Upgrades from './pages/Upgrades'
-import Posts from './pages/Posts'
-import Error from './pages/Error'
+import { Home, Stats, Upgrades, Posts, Error } from './pages'
 
 export default function App() {
   return (
