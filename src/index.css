@@ -15,7 +15,6 @@
   --primary: #111;
   --light: #fefefe;
   --grey-d: #333;
-  --grey-m: #888;
   --grey-l: #ccc;
   --orange-d: #ff4500;
   --orange-m: #ff8c00;
@@ -25,6 +24,7 @@
 body {
   background-color: var(--light);
   font-size: 16px;
+  color:#f0f0bf;
 }
 
 li, button, input {
